@@ -1,5 +1,5 @@
 {
-  "name": "Hello World",
-  "description": "A one-station assembly line for validating an Agentics runner and Azure Container Apps Sandbox.",
-  "version": "1.0.0"
+  "name": "Hello World — Plan, Build, Verify",
+  "description": "A three-station assembly line demonstrating automatic transitions through an Azure Container Apps Sandbox.",
+  "version": "1.1.0"
 }

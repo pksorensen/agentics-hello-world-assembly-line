@@ -1,6 +1,6 @@
 {
   "createTask": {
-    "title": "Run Hello World",
-    "description": "Run the Hello World station and commit its result."
+    "title": "Build and verify Hello World",
+    "description": "Move through Plan, Build, and Verify and leave a committed audit trail."
   }
 }
